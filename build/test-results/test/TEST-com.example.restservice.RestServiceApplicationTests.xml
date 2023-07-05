@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.restservice.RestServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-05T17:57:01" hostname="Stephanies-MacBook-Pro.local" time="0.639">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.restservice.RestServiceApplicationTests" time="0.639"/>
+  <system-out><![CDATA[19:57:00.712 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.restservice.RestServiceApplicationTests]: RestServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:57:00.802 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.restservice.RestServiceApplication for test class com.example.restservice.RestServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.1)
+
+2023-07-05T19:57:01.112+02:00  INFO 68838 --- [    Test worker] c.e.r.RestServiceApplicationTests        : Starting RestServiceApplicationTests using Java 20.0.1 with PID 68838 (started by stephaniedinu in /Users/stephaniedinu/IdeaProjects/swd-rest-service)
+2023-07-05T19:57:01.113+02:00  INFO 68838 --- [    Test worker] c.e.r.RestServiceApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-07-05T19:57:01.890+02:00  INFO 68838 --- [    Test worker] c.e.r.RestServiceApplicationTests        : Started RestServiceApplicationTests in 0.958 seconds (process running for 1.806)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
